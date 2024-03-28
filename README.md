@@ -2,9 +2,11 @@
 
 Para poder acceder al proyecto se debe:
 
-Clonar el repositorio: Abrir la terminal o línea de comandos y usar el comando git clone.
+Clonar el repositorio: Abrir la terminal o línea de comandos y se debe seleccinar en que carpeta se clonara.
 
-https://github.com/usuario/nombre-repositorio.git
+Una vez seleccionada se debe usar el comando git clone.
+
+git clone https://github.com/gabo05gabriel/Discoteca.git
 
 Abrir en Visual Studio: Una vez que el repositorio se haya clonado en tu computadora, abrir Visual Studio
 
